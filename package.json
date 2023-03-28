@@ -7,7 +7,8 @@
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
     "@commitlint/config-conventional": "^17.4.4",
-    "husky": "^8.0.3"
+    "husky": "^8.0.3",
+    "markdownlint-cli": "^0.33.0"
   },
   "husky": {
     "hooks": {
@@ -15,6 +16,8 @@
     }
   },
   "commitlint": {
-    "extends": ["@commitlint/config-conventional"]
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
   }
 }
