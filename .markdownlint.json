@@ -1,0 +1,49 @@
+{
+  "line_length": {
+    "line_length": 80,
+    "code_blocks": false,
+    "tables": false
+  },
+  "heading-increment": true,
+  "heading-start-left": true,
+  "no-multiple-toplevel-headings": true,
+  "no-trailing-punctuation": true,
+  "required-headers": true,
+  "first-line-h1": true,
+  "atx-no-space-after-hash": false,
+  "no-space-in-emphasis": false,
+  "no-space-in-code": false,
+  "no-inline-html": false,
+  "blanks-around-lists": true,
+  "ul-style": [
+    1,
+    "minus"
+  ],
+  "ol-prefix": [
+    1,
+    "ordered"
+  ],
+  "list-marker-space": true,
+  "fenced-code-blocks": true,
+  "no-missing-blank-lines": true,
+  "no-bare-urls": true,
+  "code-block-style": [
+    1,
+    "fenced"
+  ],
+  "code-block-indentation": true,
+  "no-trailing-spaces": true,
+  "line-length": true,
+  "no-multiple-blanks": true,
+  "no-hard-tabs": true,
+  "no-duplicate-header": true,
+  "no-emphasis-as-heading": true,
+  "no-missing-space-atx": true,
+  "no-multiple-space-atx": true,
+  "no-multiple-space-blockquote": true,
+  "no-empty-links": true,
+  "no-reversed-links": true,
+  "no-literal-urls": true,
+  "no-shell-dollars": false,
+  "single-trailing-newline": true
+}
