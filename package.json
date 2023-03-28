@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "devDependencies": {
     "husky": "^8.0.3"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "npx --no-install commitlint --edit $HUSKY_GIT_PARAMS"
+    }
   }
 }
