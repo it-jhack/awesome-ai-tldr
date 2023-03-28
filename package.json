@@ -1,0 +1,7 @@
+{
+  "name": "awesome-ai-tldr",
+  "version": "1.0.0",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  }
+}
