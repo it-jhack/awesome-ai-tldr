@@ -1,6 +1,9 @@
 {
   "name": "awesome-ai-tldr",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.21.3"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
     "@commitlint/config-conventional": "^17.4.4",
