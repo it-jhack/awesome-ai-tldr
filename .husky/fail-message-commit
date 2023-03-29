@@ -1,0 +1,31 @@
+\033[31m> Commit messages must follow the "Conventional Commits" guideline:\033[0m\n
+https://www.conventionalcommits.org/\n
+\n
+\033[32mfeat\033[0m:     A new feature \n
+\033[32mfix\033[0m:      A bug fix \n
+\033[32mdocs\033[0m:     Documentation only changes \n
+\033[32mstyle\033[0m:    Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc) \n
+\033[32mrefactor\033[0m: A code change that neither fixes a bug nor adds a feature \n
+\033[32mperf\033[0m:     A code change that improves performance \n
+\033[32mtest\033[0m:     Adding missing tests or correcting existing tests\n
+\033[32mbuild\033[0m:    Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)\n
+\033[32mci\033[0m:       Changes to your CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)\n
+\033[32mchore\033[0m:    Updates that don't modify src or test files (example scopes: updating build tasks, package manager configs)\n
+\033[32mrevert\033[0m:   A revert of a previous commit\n
+\033[32mwip\033[0m:      A work in progress commit that should not be included in the final project history\n
+\n
+\033[32m> Syntax:\033[0m\n
+  <type>[optional scope]: <description>\n
+\n
+  [optional body]\n
+\n
+  [optional footer]\n
+\n
+\033[32m> Example:\033[0m\n
+  feat(users): add user login functionality\n
+\n
+  This commit adds the ability for users to log in to the application,\n
+  using their email address and password. It also includes some basic\n
+  validation of user input.\n
+\n
+  Closes #123\n
