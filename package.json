@@ -1,0 +1,29 @@
+{
+  "name": "awesome-ai-tldr",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.21.3"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/it-jhack/awesome-ai-tldr.git"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.5.1",
+    "@commitlint/config-conventional": "^17.4.4",
+    "husky": "^8.0.0",
+    "markdownlint-cli": "^0.33.0"
+  },
+  "scripts": {
+    "test": "markdownlint . || (echo \"$(cat .husky/fail-message-markdown)\" && exit 1)",
+    "prepare-commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+    "prepare": "husky install"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test"
+    }
+  },
+  "dependencies": {}
+}

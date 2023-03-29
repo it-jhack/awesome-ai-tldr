@@ -1,2 +1,3 @@
-# awesome-AI-tldr
-Artificial Intelligence digest and summarized concepts
+# Awesome AI TLDR
+
+Artificial Intelligence digests and summarized concepts
