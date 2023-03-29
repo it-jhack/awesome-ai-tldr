@@ -4,6 +4,11 @@
   "engines": {
     "node": "14.21.3"
   },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/it-jhack/awesome-ai-tldr.git"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
     "@commitlint/config-conventional": "^17.4.4",
