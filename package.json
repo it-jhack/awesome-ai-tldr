@@ -7,17 +7,24 @@
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
     "@commitlint/config-conventional": "^17.4.4",
-    "husky": "^8.0.3",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.0",
     "markdownlint-cli": "^0.33.0"
+  },
+  "scripts": {
+    "test": "markdownlint .",
+    "prepare-commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+    "prepare": "husky install"
   },
   "husky": {
     "hooks": {
-      "commit-msg": "npx --no-install commitlint --edit $HUSKY_GIT_PARAMS"
+      "commit-msg": "node_modules/.bin/commitizen validate --config .cz.json --hook",
+      "pre-commit": "npm test"
     }
   },
-  "commitlint": {
-    "extends": [
-      "@commitlint/config-conventional"
-    ]
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
