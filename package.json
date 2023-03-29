@@ -16,7 +16,7 @@
     "markdownlint-cli": "^0.33.0"
   },
   "scripts": {
-    "test": "markdownlint . || echo \"$(cat .husky/fail-message-markdown)\"",
+    "test": "markdownlint . || (echo \"$(cat .husky/fail-message-markdown)\" && exit 1)",
     "prepare-commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
     "prepare": "husky install"
   },
