@@ -72,3 +72,51 @@ Relevant AI events summarized
 - In March, <a href="https://www.wired.com/story/compete-google-openai-seeks-investorsand-profits/" target="_blank">OpenAI sought outside investors to fund its growth and commercialization efforts</a>, which included developing new AI products and services for businesses. The company looked to raise between $500 million and $1 billion in its latest funding round, with a valuation of more than $10 billion. OpenAI's commercialization efforts were driven by a desire to compete with giants like Google, which had built a dominant position in the AI market. By that time, OpenAI had already launched several commercial products, including GPT-3, an AI language model that had been licensed to businesses and developers. The company planned to use the new funding to develop new products and services, expand its team, and invest in research and development
 - In July <a href="https://www.theverge.com/2019/7/22/20703578/microsoft-openai-investment-partnership-1-billion-azure-artificial-general-intelligence-agi" target="_blank">Microsoft and OpenAI announced a partnership</a> aimed at developing new AI technologies and applications. Microsoft invested $1 billion in OpenAI, making it the exclusive provider of cloud computing services to OpenAI. OpenAI will also license some of its technology to Microsoft to commercialize, although the details have not been announced. This partnership is a significant milestone in AI development, bringing together two industry leaders and providing a significant boost to the development of AGI technologies
 - OpenAI's GPT-2 is released in February, which was trained on 1.5 billion parameters — 12 times more than its predecessor, using a total of 40 gigabytes of data
+
+## 2018
+
+- <a href="https://www.cnbc.com/2018/02/21/elon-musk-is-leaving-the-board-of-openai.html" target="_blank">Elon Musk voluntarily left the board of OpenAI</a> due to potential conflicts of interest with his work as CEO of Tesla and SpaceX. Despite stepping down from the board, Musk remains a donor to OpenAI and is supportive of their mission
+- OpenAI's first Generative Pre-trained Transformer (**GPT-1**) is released in June. It was trained on 117 million parameters with 4.5 gigabytes of data
+- <a href="https://www.blog.google/technology/ai/google-duplex-ai-system-for-natural-conversations/" target="_blank">Google releases Duplex</a>, an AI system that can engage in natural conversations to accomplish real-world tasks over the phone that involve complex scheduling or a high degree of coordination, such as booking a restaurant reservation or scheduling a haircut. Duplex is still in development and has not yet been widely released, but Google has been testing it in limited pilot programs. There are concerns about the ethics of using AI to impersonate humans without their knowledge or consent, as well as the potential for the technology to be misused
+- Facebook uses AI to <a href="https://www.technologyreview.com/2018/04/13/143887/facebook-is-using-ai-to-predict-users-future-behavior-and-selling-that-data-to/#:~:text=Artificial%20intelligence-,Facebook%20is%20using%20AI%20to%20predict%20users'%20future%20behavior,selling%20that%20data%20to%20advertisers&text=In%20confidential%20documents%20seen%20by,it%20calls%20%E2%80%9Cloyalty%20prediction.%E2%80%9D" target="_blank">predict your future actions for advertisers</a>
+- <a href="https://news.mit.edu/2018/artificial-intelligence-senses-people-through-walls-0612" target="_blank">MIT’s AI can sense through walls</a> to detect human shapes
+
+## 2017
+
+- IBM introduces <a href="https://www.information-age.com/ibms-watson-cyber-security-4297/" target="_blank">Watson for Cyber Security</a>, an AI system designed to analyze security data and identify potential cyber-attacks
+- <a href="https://www.microsoft.com/en-us/research/video/microsoft-cognitive-toolkit-cntk-deep-learning/" target="_blank">Microsoft launches its Cognitive Toolkit</a>, a deep learning framework for developing AI systems
+- China's Alibaba develops an AI that can <a href="https://insideretail.asia/2017/06/07/how-alibaba-uses-artificial-intelligence-to-change-the-way-we-shop/" target="_blank">accurately predict which products will be popular</a> among consumers
+- Amazon introduces its <a href="hhttps://youtu.be/NrmMk1Myrxc" target="_blank">Amazon Go stores</a>, which use AI to automatically detect when a customer takes a product off the shelf and charges them accordingly, eliminating the need for traditional checkouts.
+
+## 2016
+
+- <a href="https://openai.com/blog/openai-and-microsoft" target="_blank">OpenAI is partnering with Microsoft</a> to run most of their large-scale experiments on Azure, which will become the primary cloud platform for OpenAI's deep learning and AI research, as it offers hardware configurations optimized for deep learning
+- Google announces the creation of <a href="https://techcrunch.com/2016/05/18/google-unveils-google-assistant-a-big-upgrade-to-google-now/" target="_blank">Google Assistant</a>, an AI-powered virtual assistant that’s an upgrade to Google Now
+- Facebook announces <a href="https://engineering.fb.com/2016/06/01/core-data/introducing-deeptext-facebook-s-text-understanding-engine/" target="_blank">DeepText AI</a>, capable of understanding the meaning of thousands of posts per second in multiple languages
+- <a href="https://techcrunch.com/2016/08/22/microsoft-acquires-ai-scheduling-bot-genee-for-office-365-smarts/" target="_blank">Microsoft acquires AI startup Genee</a> to bolster Office 365 productivity capabilities
+- <a href="https://www.wired.com/2016/12/the-ai-takeover-is-coming-lets-embrace-it/" target="_blank">Google develops AI-powered voice recognition software that outperforms humans in transcribing human speech</a>
+- Microsoft's <a href="https://en.wikipedia.org/wiki/Tay_(chatbot)" target="_blank">Tay AI chatbot</a> goes rogue, posting inflammatory and offensive tweets through its Twitter account, causing Microsoft to shut down the service only 16 hours after its launch
+- AlphaGo, an AI program developed by DeepMind, defeats world champion Lee Sedol in a five-game match of the board game Go
+
+## 2015
+
+- <a href="https://techcrunch.com/2015/12/11/non-profit-openai-launches-with-backing-from-elon-musk-and-sam-altman/" target="_blank">Elon Musk and Sam Altman found OpenAI</a>, a non-profit research organization dedicated to advancing AI safely and beneficially to humankind
+- <a href="https://www.reuters.com/article/tesla-autopilot-idINKCN0S82T020151014" target="_blank">Tesla unveils autopilot mode for its electric cars</a> using AI and machine learning to enable its electric cars to drive themselves in certain situations
+
+## 2014
+
+- <a href="https://techcrunch.com/2014/01/26/google-deepmind/" target="_blank">Google acquires Artificial Intelligence startup DeepMind</a> for more than $500M. DeepMind is an AI company aiming to build general-purpose learning algorithms for simulations, e-commerce, and games. As of December, the startup reportedly had about 75 employees
+
+## 2012
+
+- <a href="https://en.wikipedia.org/wiki/Google_Now" target="_blank">Google introduces Google Now</a>, a predictive personal assistant that uses AI to provide personalized information to users
+
+## 2011
+
+- <a href="https://en.wikipedia.org/wiki/Google_Brain" target="_blank">Google Brain</a> is founded
+- <a href="https://en.wikipedia.org/wiki/Siri" target="_blank">Apple launches Siri</a>, a voice-activated personal assistant for iPhone users
+
+## 2010
+
+- <a href="https://en.wikipedia.org/wiki/Kinect" target="_blank">Microsoft released Kinect</a>, a motion sensing input device for the Xbox 360 gaming console, which used computer vision and machine learning
+- <a href="https://pt.wikipedia.org/wiki/DeepMind" target="_blank">DeepMind</a>, a British AI startup, is founded
