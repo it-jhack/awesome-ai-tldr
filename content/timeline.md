@@ -37,7 +37,7 @@ Relevant AI events summarized
 
 - <a href="https://www.theverge.com/2023/1/23/23567448/microsoft-openai-partnership-extension-ai" target="_blank">Microsoft extends OpenAI partnership</a> announcing a new multi-year, multi-billion dollar (reported to be $10 billion) investment in OpenAI. The deal will give a boost to Microsoft’s Azure cloud, while providing OpenAI with additional supercomputers to run its complex AI models and fuel its research. OpenAI's technology has also been integrated into apps like GitHub Copilot and Microsoft Designer through this partnership
 - <a href="https://www.engadget.com/chatgpt-100-million-users-january-130619073.html" target="_blank">ChatGPT reached 100 million monthly active users</a> only two months after its launch, becoming the fastest-growing consumer application in history. TikTok, in comparison, which was the previous owner of the record, took about nine months after its global launch to reach the same mark
-- Princeton student builds app to <a href="https://gptzero.me/" target="_blank">detect ChatGPT-generated text</a>. The release of ChatGPT has raised discussion in academia, with concerns about plagiarism and sourcing. Some of that concern may now be alleviated after the release of GPTZero, as it aims to mitigate the issue of "increasing AI plagiarism," the app's creator, Edward Tian, said on Twitter
+- Princeton student builds app to <a href="https://gptzero.me/" target="_blank">detect ChatGPT-generated text</a>. The release of ChatGPT has raised discussion in academia, with concerns about plagiarism and sourcing. Some of that concern may now be alleviated after the release of GPTZero, as it aims to mitigate the issue of "increasing AI plagiarism", the app's creator, Edward Tian, said on Twitter
 
 ## 2022
 
@@ -86,7 +86,7 @@ Relevant AI events summarized
 - IBM introduces <a href="https://www.information-age.com/ibms-watson-cyber-security-4297/" target="_blank">Watson for Cyber Security</a>, an AI system designed to analyze security data and identify potential cyber-attacks
 - <a href="https://www.microsoft.com/en-us/research/video/microsoft-cognitive-toolkit-cntk-deep-learning/" target="_blank">Microsoft launches its Cognitive Toolkit</a>, a deep learning framework for developing AI systems
 - China's Alibaba develops an AI that can <a href="https://insideretail.asia/2017/06/07/how-alibaba-uses-artificial-intelligence-to-change-the-way-we-shop/" target="_blank">accurately predict which products will be popular</a> among consumers
-- Amazon introduces its <a href="hhttps://youtu.be/NrmMk1Myrxc" target="_blank">Amazon Go stores</a>, which use AI to automatically detect when a customer takes a product off the shelf and charges them accordingly, eliminating the need for traditional checkouts.
+- Amazon introduces its <a href="hhttps://youtu.be/NrmMk1Myrxc" target="_blank">Amazon Go stores</a>, which use AI to automatically detect when a customer takes a product off the shelf and charges them accordingly, eliminating the need for traditional checkouts
 
 ## 2016
 
@@ -110,6 +110,7 @@ Relevant AI events summarized
 ## 2012
 
 - <a href="https://en.wikipedia.org/wiki/Google_Now" target="_blank">Google introduces Google Now</a>, a predictive personal assistant that uses AI to provide personalized information to users
+- Google introduces <a href="https://en.wikipedia.org/wiki/Google_Voice_Search" target="_blank">Google Voice Search</a>, an AI-powered voice search function for mobile devices
 
 ## 2011
 
@@ -118,5 +119,75 @@ Relevant AI events summarized
 
 ## 2010
 
-- <a href="https://en.wikipedia.org/wiki/Kinect" target="_blank">Microsoft released Kinect</a>, a motion sensing input device for the Xbox 360 gaming console, which used computer vision and machine learning
+- <a href="https://en.wikipedia.org/wiki/Kinect" target="_blank">Microsoft released Kinect</a>, a motion-sensing input device for the Xbox 360 gaming console, which used computer vision and machine learning
 - <a href="https://pt.wikipedia.org/wiki/DeepMind" target="_blank">DeepMind</a>, a British AI startup, is founded
+
+## 2007
+
+- Apple introduces the iPhone, which incorporates AI-powered voice recognition technology
+
+## 2005
+
+- Google launches Google Maps, which uses AI to provide real-time traffic information
+
+## 2002
+
+- Roomba, the first autonomous robotic vacuum cleaner, is introduced by iRobot
+
+## 1999
+
+- The blockbuster movie "The Matrix" is released, featuring the concept of AI-powered machines taking over the world
+
+## 1998
+
+- Google's co-founders Larry Page and Sergey Brin developed the PageRank algorithm, which uses links between websites to determine their importance and relevance. This algorithm became the foundation of Google's search engine and revolutionized the way we find information online
+
+## 1997
+
+- IBM's Deep Blue defeated world chess champion Garry Kasparov in a historic match. This event brought attention to the potential of AI and its ability to beat humans in complex games
+
+## 1993
+
+- The Pentium processor is introduced by Intel, which greatly improved computing power and speed, making it easier to develop AI systems
+- The first autonomous humanoid robot is created by Honda, called P1. It was 182 centimeters (6 feet) tall and weighed 175 kilograms (386 pounds). Honda engineers made significant progress researching how humans walk, using the human skeleton for reference
+
+## 1989
+
+- The game "SimCity" is released, which uses AI techniques to simulate the behavior of virtual cities and their residents
+
+## 1986
+
+- The <a href="https://www.nature.com/articles/323533a0" target="_blank">Backpropagation algorithm</a> is rediscovered by David Rumelhart, Geoffrey Hinton, and Ronald Williams, marking a significant breakthrough in the field of artificial neural networks
+
+## 1971
+
+- SHRDLU was developed by Terry Winograd, which could understand simple English sentences in a restricted world of children's blocks to direct a robotic arm to move items. The successful demonstration provided significant momentum for continued research in the field of NLU
+
+## 1969
+
+- Perceptron is developed, as one of the first machine-learning algorithms. While limited in its capabilities, it was a significant step forward in the development of machine learning and inspired further research into neural networks
+
+## 1961
+
+- John McCarthy proposes the idea of "artificial intelligence as a service", which foreshadows the development of cloud computing
+- James Slagle develops SAINT, the first program capable of solving algebra word problems
+
+## 1959
+
+- The first computer program capable of learning to play checkers is developed by Arthur Samuel, a pioneer in the field of computer gaming, artificial intelligence
+
+## 1956
+
+- The Dartmouth Conference marks the birth of AI as a field of study
+
+## 1950
+
+- Alan Turing publishes "Computing Machinery and Intelligence", which proposes the "Turing test" as a way to determine whether a machine can exhibit intelligent behavior equivalent to that of a human
+
+## 1943
+
+- Warren McCulloch and Walter Pitts publish "A Logical Calculus of the Ideas Immanent in Nervous Activity", which proposes the first mathematical model of a neural network
+
+## 1939
+
+- Alan Turing began his work on the Enigma codebreaking effort. Turing made significant contributions to the development of the Bombe machine, which was used to decrypt German secret messages. In 1942 the Bombe became operational, breaking the Enigma codes regularly, which is estimated to have shortened WW2 by at least two years. While the breaking of the Enigma code was not directly related to modern Artificial Intelligence, it did involve the use of early computing technology and statistical analysis, which were important precursors to modern AI techniques
