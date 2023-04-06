@@ -1,9 +1,9 @@
 # Awesome AI TLDR
 
-Artificial Intelligence digests and summarized concepts
+Artificial Intelligence summarized for the impatient.
 
-- [Timeline](content/timeline.md)
-- [Fundamentals](content/fundamentals.md)
-- [Popular Models](content/models.md)
-- [Tools](content/tools.md)
-- [Python and Libraries](content/py-libs.md)
+[🕒 Timeline](content/timeline.md)<br>
+[📚 Fundamentals](content/fundamentals.md)<br>
+[📦 Popular Models](content/models.md)<br>
+[🛠️ Tools](content/tools.md)<br>
+[🐍 Python and Libraries](content/py-libs.md)<br>
