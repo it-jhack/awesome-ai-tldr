@@ -1,4 +1,4 @@
-# Timeline
+# 🕒 Timeline
 
 Relevant AI events summarized
 
