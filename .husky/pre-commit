@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+
+if [ $(node -v | cut -c2-3) = 14 ]; then
+  npm test
+else
+  echo '\033[31mPlease use Node.js version 14.\033[0m'
+  exit 1
+fi
