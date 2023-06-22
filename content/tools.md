@@ -1,5 +1,11 @@
 # 🛠️ Tools
 
+## For Developers
+
+- <a href="https://vercel.com/blog/introducing-the-vercel-ai-sdk" target="_blank">Vercel AI SDK</a> – Open-source library to build AI-powered conversational streaming user interfaces in JavaScript and TypeScript. It supports React/Next.js, Svelte/SvelteKit, Vue/Nuxt, Node.js, Serverless, and Edge Runtime. It offers support for LangChain, OpenAI, Anthropic, and Hugging Face, and includes React and Svelte hooks for data fetching and rendering streaming text responses
+- <a href="https://huggingface.co/" target="_blank">Hugging Face</a> – Open-source community for AI models
+- <a href="https://python.langchain.com/" target="_blank">LangChain</a> – Framework for developing applications powered by language models. It can integrate with other data sources and actively engage with surroundings.
+
 ## Search
 
 - <a href="https://theresanaiforthat.com/" target="_blank">There is an AI for that</a> – searches a specific AI tool for your needs
@@ -9,6 +15,7 @@
 
 - <a href="https://chat.openai.com/chat" target="_blank">ChatGPT</a> – chatbot developed by OpenAI, that uses deep learning to generate human-like responses in a  wide variety of fields in science, art, business, and more. They also have an <a href="https://platform.openai.com/overview" target="_blank">API</a>
 - <a href="https://www.perplexity.ai/" target="_blank">Perplexity</a> – similar to ChatGPT, but has internet access and no data cutout
+- <a href="https://www.anthropic.com/" target="_blank">Anthropic</a> – Main product is Claude, an AI with the goal of being predictable and less likely to produce harmful output
 - <a href="https://www.quickchat.ai/" target="_blank">QuickChat</a> – low-code platform that allows users to easily create and deploy chatbots on popular messaging platforms
 - <a href="https://www.pizzagpt.it/" target="_blank">PizzaGPT</a> – alternative to ChatGPT, because it was banned in Italy
 
@@ -55,10 +62,9 @@
 
 ## Business
 
-- <a href="https://www.quickchat.ai/" target="_blank">QuickChat</a> – low-code platform that allows users to easily create and deploy chatbots on popular messaging platforms
 - <a href="https://hivemindai.com/" target="_blank">HiveMind</a> – lead management and chatbot automation
 - <a href="https://www.askviable.com/" target="_blank">Viable</a> – conversational AI platform that offers chatbot and voice assistant builder tools, natural language processing, analytics, and integration capabilities for businesses to create and optimize their conversational experiences
 
-## Others
+## For Fun
 
 - <a href="https://aidungeon.io/" target="_blank">AI Dungeon</a> – text-based AI-powered RPG
